@@ -28,3 +28,9 @@ Program Java sederhana yang mengimplementasikan konsep dasar **Object-Oriented P
 [ BujurSangkar ] [ Lingkaran ]
                       |
                  [ Silinder ]
+
+## 💻 Output Program
+
+Berikut adalah tampilan hasil saat program dijalankan:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5dfba6c1-eec5-4059-a5cb-db6265bd0894" />
